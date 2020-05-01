@@ -8,5 +8,3 @@ But it's not THAT simple to be honest!
 ## Examples:
 When we are coding on our computers whilst listening to music and reading a blog post from our favourite blogger, we're actually Multitasking. But on the hand the our IDE i.e. Visual Studio for example is busy Multithreading because it is letting you enter new code, checking continuously for errors, and updating your code as you're saving it on the go.
 
-
-> Written with [StackEdit](https://stackedit.io/).
